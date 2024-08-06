@@ -116,7 +116,7 @@
     "        else:\n",
     "            print(self.queue[0], \"Dequeued from Queue\")\n",
     "            return self.queue.pop(0)\n",
-    "\n",
+    "\Nn",
     "    def peek(self):\n",
     "        if len(self.queue) == 0:\n",
     "            return \"Queue is Empty\"\n",
